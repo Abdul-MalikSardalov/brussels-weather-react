@@ -1,0 +1,9 @@
+.day-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 12px;
+}
+
+.day {
+    font-size: larger;
+}

@@ -1,0 +1,32 @@
+.hour {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    margin: 5px 5px;
+    background-color: #3f454a;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+    border-radius: 10px;
+    margin: 5px 5px;
+}
+
+.hours-icon {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.hour-number {
+    margin-right: 20px;
+}
+
+.calcium-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upDownIcons {
+    margin-right: 15px;
+}
